@@ -62,7 +62,7 @@ Main project is **[TestCord](https://github.com/x2b1/TestCord)**, a Discord clie
 |---|---|---|
 | Discord | `@221m` | **preferred** |
 | Discord | `@x2b` | main, won't accept reqs |
-| Telegram | `@animepussydestroyer` | |
+| Telegram | `@x2bfr` | |
 | Signal | `@x2b.66` | |
 | Email | `x2b@maid.zone` | |
 
