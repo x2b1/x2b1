@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a1a2e,5865F2&height=200&section=header&text=x2b&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=coding%20when%20bored%20·%20creator%20of%20TestCord&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
-
 </div>
 
 <div align="center">
